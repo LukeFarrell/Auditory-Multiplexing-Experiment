@@ -6,4 +6,4 @@ The goal of the experiment was to determine the simultaneous localization capabi
 
 Preliminary analysis suggests a robust limitation on simultaneous location perception in humans for the first time with frequency and loudness disambiguated. Further evidence of a temporally dependent neural mechanism are currently being investigated in non-human primates as a part of the study. 
 
-__Results are being presented at the Society for Neuroscience 2017 Washington D.C. meeting in November of 2017.
+__Results are being presented at the Society for Neuroscience 2017 Washington D.C. meeting in November of 2017.__
